@@ -1,0 +1,7 @@
+1 oreo 4.5
+2 lays 6
+3 kinder 5.5
+3A milka 3.5
+4 pepsi 5
+4A cola 7.5
+5 sandwich 10.5
